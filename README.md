@@ -10,6 +10,5 @@ Dupa ce deschideti linkul intr-un tab nou, apasati "Fork this" ca sa puteti edit
 
 4.Joculet "Ghiceste numarul": https://onlinegdb.com/7oYfqCrNz
 
-5.Joculet rezolvat: https://onlinegdb.com/swYvDIcWd
 
 
